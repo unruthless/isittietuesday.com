@@ -1,4 +1,4 @@
-Is Today Tie Tuesday?
+Is It Tie Tuesday?
 ===
 
 A teensy side project of @wmclark92 and @unruthless.
