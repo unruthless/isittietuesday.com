@@ -1,4 +1,9 @@
-Is It Tie Tuesday?
+Is Today Tie Tuesday?
 ===
 
-Built on top of [HTML5 Boilerplate](http://html5boilerplate.com/)
+A teensy side project of @wmclark and @unruthless.
+
+
+Contributing
+======
+Pull requests welcome!
