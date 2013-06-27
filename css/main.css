@@ -171,24 +171,26 @@ body,
     background-size: contain;
     display: table;
     height: 100%;
+    margin: 2% 0;
+    max-height: 90%;
     min-height: 361px;
     min-width: 71px;
     width: 100%;
 }
 
 body[data-isTuesday="true"] .answer {
-    background-image: url("../img/windsor_yes.png");
+    background-image: url("../img/windsor_yes.svg");
 }
 
 body[data-isTuesday="false"] .answer {
-    background-image: url("../img/windsor_no.png");
+    background-image: url("../img/windsor_no.svg");
 }
 
 .answer .answer-text {
     color: rgb(10,10,10);
     color: rgba(0,0,0,0.80);
     display: table-cell;
-    font-size: 3em;
+    font-size: 5em;
     text-align: center;
     vertical-align: middle;
 }
