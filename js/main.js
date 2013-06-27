@@ -25,13 +25,13 @@ function isTodayTuesday() {
 }
 
 function changeFavicon(src) {
+	// emulate html5 head selector, even in older browsers
+	// http://mathiasbynens.be/notes/document-head
+	document.head || (document.head = document.getElementsByTagName('head')[0]);
+
 	// if we already have a favicon attached to the DOM, remove it
-	var favicons = $("link[rel='shortcut icon']");
-	if(favicons.length >= 1) {
-		favicons.each(function(i) {
-			favicons[i].remove();
-		});
-	}
+	var favicon = $("link[rel='shortcut icon']");
+	if(favicon.length >= 1) favicon.remove();
 
 	// plop in our new favicon
 	var link = document.createElement('link');
