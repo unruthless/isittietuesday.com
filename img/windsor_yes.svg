@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Tie" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="70.99px" height="359.806px" viewBox="0 1.614 70.99 359.806" enable-background="new 0 1.614 70.99 359.806"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="71.708px" height="361.068px" viewBox="0 0 71.708 361.068" enable-background="new 0 0 71.708 361.068"
 	 xml:space="preserve">
-<polygon fill="#82CA9E" points="11.869,1.614 25.337,39.37 45.653,39.37 59.124,1.614 "/>
-<polygon fill="#82CA9E" points="45.653,48.151 45.646,48.117 35.496,48.117 25.345,48.117 25.337,48.151 0.16,320.697 0.16,320.697 
-	35.496,361.42 70.831,320.697 "/>
+<g>
+	<polygon fill="#F8BF43" points="12.226,0.5 25.694,38.256 46.011,38.256 59.48,0.5 	"/>
+	<polygon fill="#F8BF43" points="46.011,47.037 46.002,47.002 35.853,47.002 25.702,47.002 25.694,47.037 0.517,319.583 
+		0.517,319.583 35.853,360.306 71.19,319.583 	"/>
+</g>
 </svg>
